@@ -26,7 +26,7 @@ Sigue estos pasos para instalar y ejecutar el proyecto localmente:
 
    Abre la terminal y clona el repositorio en tu máquina local:
    ```bash
-   git clone -b main https://github.com/tuusuario/roll-a-ball
+   git clone -b main https://github.com/gabrielalexandro/roll-a-ball.git
    ```
 
 2. **Abrir Unity Hub:**
