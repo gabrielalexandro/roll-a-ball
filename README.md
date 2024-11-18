@@ -93,7 +93,7 @@ El proyecto no sigue un sistema de versionado formal ya que está en una fase de
 
 ## ✒️ Autor
 
-* **[Gabriel Alexander Osorio Osorio]** - *Desarrollador* - [GitHub](https://github.com/tuusuario)
+* **[Gabriel Alexander Osorio Osorio]** - *Desarrollador* - [GitHub](https://github.com/gabrielalexandro/)
 
 ## 🎁 Expresiones de Gratitud
 
