@@ -6,6 +6,8 @@ Roll A Ball!! es un juego interactivo en Unity donde los jugadores deben complet
 
 El sonido es un componente crucial en cualquier juego, ya que ayuda a construir la atmósfera y realza la inmersión del jugador. En Roll A Ball!!, se ha implementado un sistema de audio básico usando el componente AudioSource de Unity para añadir efectos de sonido a acciones como la recolección de objetos, los saltos, sonido de fondo etcétera. Este componente permite reproducir clips de audio asignados a diferentes eventos, dando una retroalimentación auditiva inmediata y enriqueciendo la experiencia de juego.
 
+> Importante: Este proyecto posee un nuevo nivel que esta desarrollado con Realidad Virtual, para ello se recomienda el uso de las gafas VR para una mejor experiencia aunque si no las tienes puedes usar el teclado y ratón de tu computadora.
+
 ## 🚀 Comenzando
 
 A continuación, se describen los pasos para obtener una copia del proyecto en funcionamiento en tu computadora para fines de desarrollo y pruebas.
